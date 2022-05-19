@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = 'aneesh-mohanan/Emailing'
+    registry = 'aneesh-mohanan/emailing'
     dockerHubCreds = 'docker_hub'
     dockerImage = ''
   }
